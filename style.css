@@ -1,0 +1,129 @@
+.intro{
+    background: linear-gradient(300deg, #4158D0, #C850C0, #FFCC70);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+    align-items: center;
+    text-align: center;
+    font-family: "Sacramento", cursive;
+    color: rgb(125, 27, 2);
+    padding: 30px;
+}
+.hello{
+    
+    color: #da7613;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+   padding-top: 15px;
+   padding-bottom: 15px;
+    
+}
+.myedu{
+   
+    color: #da7613;
+    
+}
+.skill{
+    color: #da7613;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   background: linear-gradient(62deg, #f3f5f6,#e4c6ff);
+}
+.profile{
+    
+    background: linear-gradient(62deg, #f3f5f6,#e4c6ff);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    align-items: center;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.sanjay{
+    border-radius: 50%;
+}
+.education{
+    
+    background: linear-gradient(62deg,#f3f5f6,#e4c6ff);
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.nmk{
+    text-align: center;
+    
+    border-radius: 50%;
+    justify-content: center;
+
+}
+.siddaganga{
+   
+    border-radius: 50%;
+    justify-content: center;
+   
+}
+.ramaiah{
+   
+    border-radius: 50%;
+    justify-content: center;
+   
+    
+}
+.chess{
+    background: linear-gradient(62deg,#f3f5f6,#e4c6ff);
+    display: flex;
+    justify-content: center;
+    text-align:left;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding: 50px;
+      
+}
+.coding{
+    background: linear-gradient(62deg,#f3f5f6,#e4c6ff);
+    display:flex;
+    justify-content: center;
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    
+    padding: 50px;
+    
+    
+}
+.chats{
+    background: linear-gradient(62deg,#f3f5f6,#e4c6ff);
+    display:flex;
+    justify-content: center;
+    text-align: left;
+    padding-right: 500px;
+    
+    padding-bottom: 30px;
+    padding: 50px;
+}
+
+.conclusion{
+    
+    background: linear-gradient(300deg, #4158D0, #C850C0, #FFCC70);
+   background-size: 180% 180%;
+   animation: gradient-animation 18s ease infinite;
+    align-items: center;
+    text-align: center;
+    font-family: "Sacramento", cursive;
+    color: rgb(125, 27, 2);
+    padding: 20px;
+    
+}
+
+.pen{
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
